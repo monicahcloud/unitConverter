@@ -1,7 +1,8 @@
 # unitConverter
 Java Project
+
 Project A: Unit Converter Application
-Instructions
+
 Introduction
 In this Java module, you will design a menu-driven console application that will let users convert between one type of unit and another.
 
