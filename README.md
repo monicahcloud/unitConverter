@@ -19,7 +19,7 @@ Please select an option:
 1. Cups to Teaspoons
 2. Miles to Kilometers
 3. US Gallons to Imperial Gallons
-4. Quiz
+4. Quit
 
 Use a Scanner object to collect the user's menuSelection
 switch on the selection to collect the user's quanity of the first unit, convert to the second unit, and print the output.
